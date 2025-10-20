@@ -1,0 +1,11 @@
+[project]
+name = "validation-agent-py"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "crewai>=0.203.1",
+    "crewai-tools>=0.76.0",
+    "polars>=1.34.0",
+]
